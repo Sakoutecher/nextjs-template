@@ -31,6 +31,7 @@ pnpm prima:migrate
 Open the [`seed.ts`](https://github.com/Sakoutecher/nextjs-template/blob/stable/src/lib/utils/prisma/seed.ts) file, you can find this file in the [`src/lib/utils/prisma`](https://github.com/Sakoutecher/nextjs-template/blob/stable/src/lib/utils/prisma) folder.
 Then change value in the main function.
 
+<br>
 
 >**How to get the second version without Supabase and Supabase auth ?**<hr>
 You just have to change the current branch in the repositorie and click on the one who's name `without-supabase` and then click on use `Use this template``
