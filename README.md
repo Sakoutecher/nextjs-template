@@ -5,7 +5,7 @@ This template enables you to set up a project quickly with numerous useful libra
 A default Prisma schema is installed in the project, which is the one suggested by the Prisma documentation. Therefore, remember to modify it and run the following command (with npm, yarn or pnpm) :
 
 ```bash
-pnpm prima:migrate
+pnpm prisma:migrate
 ```
 
 ## Librairies
