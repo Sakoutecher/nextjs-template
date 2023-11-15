@@ -34,4 +34,4 @@ Then change value in the main function.
 <br>
 
 >**How to get the second version without Supabase and Supabase auth ?**<hr>
-You just have to change the current branch in the repositorie and click on the one who's name `without-supabase` and then click on use `Use this template``
+Click on the button `Use this template` and create a repositorie, **don't forget to check the ckeckbox `ìnclude all branches`**, then and the created repositorie change the current branch `stable` to the one who's called `without-supabase`.
