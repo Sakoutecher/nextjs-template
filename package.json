@@ -6,7 +6,12 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "lint:fix": "next lint --fix",
+    "ts:check": "tsc --noEmit",
+    "prisma:migrate": "prisma migrate dev",
+    "prisma:client": "prisma generate",
+    "postinstall": "prisma generate"
   },
   "dependencies": {
     "@bluzzi/eslint-config": "^1.2.1",
